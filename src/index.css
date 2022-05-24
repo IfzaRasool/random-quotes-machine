@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./components/images/bg2.jpg);
+}
+
+#quote-box {
+  margin-left: 12%;
+  margin-top: 60%;
+}
+
+#text {
+  font-family: Lobster, monospace;
+}
+
+#author {
+  padding-left: 20rem;
+  padding-top: 2rem;
+}
+
+#new-quote {
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-left: 18rem;
+  list-style: none;
+  text-decoration: none;
+}
+
+#tweet-quote {
+  text-decoration: none;
+}
+
+#new-quotee {
+  text-decoration: none;
+}
