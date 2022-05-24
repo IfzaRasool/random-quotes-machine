@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 import App from './App';
 import { fetchQuotes } from './redux/quote';
 import store from './redux/configureStore';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 store.dispatch(fetchQuotes);

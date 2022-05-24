@@ -1,75 +1,70 @@
-# Random Machine Quotes
+# Getting Started with Create React App
 
-> "Random Quote Machine" is a Single Page App (SPA) that allows users to generate new quotes 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Built With
+## Available Scripts
 
-- Html
-- Css
-- Js
-- React
-- Redux
-- Technologies used:
-  > webpack,
-  > AJAX,
-  > API,
-  > JSON,
-  > Babel,
-  > Thunker
+In the project directory, you can run:
 
-## Live Demo ()
+### `npm start`
 
-[Live Demo Link]()
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Getting Started
+### `npm test`
 
-To get a local copy up and running follow these simple example steps.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Prerequisites
+### `npm run build`
 
-- node and npm
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Setup
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- git clone repo
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Install
+### `npm run eject`
 
-- npm install
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Usage
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- localhost:3000
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Run tests
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-npm run test
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-## Author
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-👤 **Ifza Rasool**
+### `npm run build` fails to minify
 
-- GitHub: [@IfzaRasool](https://github.com/IfzaRasool)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
